@@ -18,5 +18,7 @@
 	<classpathentry kind="lib" path="E:/code/java/lib/myadd/standard.jar"/>
 	<classpathentry kind="lib" path="E:/code/java/lib/myadd/mysql-connector-java-5.1.44-bin.jar"/>
 	<classpathentry kind="lib" path="E:/code/java/lib/myadd/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="E:/code/java/lib/myadd/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/code/java/lib/myadd/commons-io-1.4.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
